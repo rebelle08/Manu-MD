@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="MANU-MD" height="1080" width="720" src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg">
+    <img alt="MANU-MD" height="300" width="600" src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg">
 
     
 
